@@ -1,0 +1,56 @@
+{
+  "courses": [
+    {
+      "id": 1,
+      "title": "Introduction to React",
+      "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAQMAAADCCAMAAAB6zFdcAAAAk1BMVEUqLC5i4P9g2/th3/8qKixi4v8pKCknHRspJicoJCQnHhwoIyMnGxhg2vomGRZf1/c8bXs3WmUsNDhax+RRq8RUtc9czetd0O8mFhEvPkQ5Ym5OpLsySVA/doYrMDNBe4xFiJtXvtouO0BLm7FFh5ojAAA0UVpIkKQlDQA4XmpSscpNn7YwQ0pJlqs7aXY1U11k6P8yCNw7AAAL2ElEQVR4nO2bCZeiOhaASUICJCwisigqoLaWe///Xzc3wQWX6uqZU86bcu533qlWjJhc7p48y0IQBEEQBEEQBEEQBEEQBEEQBEEQBEEQBEEQBEEQBEEQBEEQBEEQBEEQBEEQBEEQBEGQn4xQUnris0/U00/eC+EfF6t6Mgy9+0+UHFerVTUO7X9iXv9F1LghHKBpz3dvPvCqhHFOOB3Y760K7jJgjFLKCONJ7F+euHAmEYeL8Al8YL21JrgZ5eWuPxttA8LIXJ1UQc5Szni2X876ccP4IPxnZ/lSVMXJ9kPYwg2ncwqrXkp9OeyBdkSVdIRte7JhbPzG1uA3LBetotv+MuGU9grLLvaE8sFUtmPcJSN75x+c5GuxZwHZ++d3rpxzyleF3IAsquLiA4qGNO9rDO6I8941JtphxUAIA86io38d5cwJnb6tV1QTzuNuRPTXAQQCmk3V7Si6e1uHIGtyKwPLOUKgjKY317wDZ7ej3gm5IuR2dcVApwSLG/P3epys31YGanFnC8We0zygvCc7F99bD+AJ38jAqTiNZj0IC8tO9QBJBBu+rT+AJ8wP19V62hkclQ9rzjrpsYR0of9lXHA7/CSBiR3li0sIENOc8glkQ8Wck/TqEvwBSeTT73eYjq7EYyV/UCyNyPacAopwQ9jqlwQ+UsrrS8nsJyT1P7vBCbvP+BWa1dZDKf4fIcTLdcpJWONYwpO+9KwVp0G1qFd1vVgxykaWchzpCXsaXAX1GXY/0tWnAV5Qnsdfqs5fYI+Xy+k33OdPOFsWKTWerAZNHujJE04AzmhAaZClZX3YFTHnE/XFjYwMms1mk8J/ia656fEbQomTkRfXa7b6qAhtIsph5aaJ0EE/TZAG6HVC6a74QrW1DPjoww81ctnA15Ov7OcvcDJKXykD159ONkaDOY8ykAQbrI9n4hGsPALl4ETrRL4dKedPczEyuJQe7seG0W4l8p/iJK+UgRsey4gb4x1U8cyHNeSWEmdcueQ0+VDDUZ1qOyck2w/9z2dzKwNLDKHuGFwUwfaUeujN2i5cfOjlCj30bEX2K2UgwjiFJ8yjQcp433FFCP8eboy+mBNe+8IrDoRtU0oYoeXuU/W+k4Hlp4w25wZEODtU1WSpul4SLo6qqgJ303UbbjHUQ9fCgaBkCxGCLezUS2KDnEEYZCztTYslJ5AhqB5hdw0z28oYnQkLpBOpcLhIOEhh7nzi6O5lAM6WJq1M/WMa6IBJskqeF2PDMwjaMNosr6KBoZRrJ5TvLdee5XkOagp/89m3pxthLwIjKMeFsi2Vsca3VQ45spmg6zthO1UFZcImhMURkI6Q4TrV7dXx85D3oAflWQbOHiyOa/9KedNvhWCrUl80AYjxyfmW/ty85/CXZzs1o8YXgSHSb5dBUcN00nFr3c6esGUItVOtUwA7XJdNOh8bnS9SRo5hdU6nPX8NkSoYPRXCgwzAkE3zKSw55ZvDbhfvI0pOHWqv4ZSlk3XcM2XqyeKLAVyNtr3DpISF57t+mqY64sI/3y0DWelW2cdJLYXuFoqIZXpptrWB5wMOcKWFIMaUNb8alp+X5smtLqeemcOdDPweoWQFt5QL+Mah8MDL+tOEkdbgZMmTZaFc1yuWOh6ZDMyBoaR0feWpYpfw1BKO/wtEOSz87+5mQo1AaXx1bg4sckvaLMhJIVUMdJpntCIsGVnRTkPVLha8ldZzGcg2qKgi1tkF1Jp2P6Ckd/oxV9cjJnOyrVKc5AUFGs30b4sZDC1PXUy3v1X61YviglMydugIVnfKTj5c6aoZLBDEQLR30NNi9CZRK/aEV0+SRi0DUkFmq+mBUlO+cnSThrO0uPyU9rxGIPalpjK/obuVMBSEcb5st4KWr5GBjNim6F7wwOZak9cBjbZS4LWehD8HEdzUS+A9WfqkydytFxj4NPq7lO0aul5CRTQ6CdDzCxUWjmu74Pu1DOCRk/pexV4jAzHmxlA7v1ODC2/NNKNn2udlNHx9k+6FJcmf3LaVweXbPJnoO9ozBov2nTO/Bowd9ZJsZzTIoygp49BrZWDPKH0sDV5jC09ksICawWjGowy0Bd+2Ev8kgyxJkgaWxPaxMo/bjQmNtuWFbdJqnO1q3wtB8DdPQQ+0LcC8aPTQwX+RP/AiNrixBQdmzUf6YTsnW9DVkpGTvycUcoTuaPm5LUDNFIYFvAAX0C7GO0Dt1Okr6NRUexMJvpek1Wi0aHjS6oG7htz8YbUv8gc+6OO6owgnn6gfuwIfHbQy4HpDwZ7CeujN3gLkFp/6xNbydejli9bpuiPQg3LQZTNyze/wSsdGyLz0D2o9OIJLfMgCXiQDSAho0MlPQ4iNg1OxIBvS+kRuduD8OZQKtGs6Bcw+f9ZL6OQHRQOOtO3BijH4Az/0u7haDRgrP06rHAetDHaEPnZuX1Uz+bpfNCrOOdKYsa0VsMxkRdNG+3TGt3rZkEmw5FfCsvOi3bAGMx49K4k7MoDUCnKrNpi4EDEfx8NVfumwnHwiJO2UPLRqXlY3FnprtZw5RvN0BD8WK8IXZtnOJE2SwdpYfLFhZFQsCB+Z+YpwqVPc3tOkrZsnaiG3t7McMLyu97HbP90QIE4y0DbaXIe2InqRLehJVpSRaNUPtV4mLJE2TCRq2+fKV6o9lOOtdX4jhpSVIeQFxQ4mSfL4ed56kyvDPWlg9Fp7OnatMFS/rTwyet3WkCcZ6BjCJ2d3K0dGkV7YP3DgiYIUBiNlamepHRkp79y9SszZi7Z2tiapLuDK6SeNxRsZeLFOrczt/A14hDhsS9JiFMVee5GlH60DLA6tTwTHtCE06BUu5ArK37c9fwcMZASl/SvE4Pq9REfoZA/ucCiFDVUDiW8M1685mYe2CHuMrcocZEbS5adH1G5rpmILz7QyxtXPwcHsh07oe/EAio2zdpC59JUM5YKdZQDJCNTM5Voo6wBGx5dCFzPgWiCOxC/RBeUfUmpOXbF5b2wXuwDqfSFsMxsb6p4dZI+FYy0nUN4S3XIqj+HnneK7ulGBgkemWeCNMyghWZI2EWGMtjs68JgpybeLuox+b062AKIZJkTv/JuATEwE1kUEvOGDb+jPPsMLh4smMP10mjclePDtcDecCde1ZsPdroG8b5BEJvmn0aay/D/1yvUey++ODA6QAzZtrijmkSnI4U6b8cmbhHXA9ZHA30FdRJyf8kMYSnWLUyto6w9sKzFtlexl52CE+pgwmge6tU7akocGeZbl5iCGlg4jnESR7q2rr7oYcbzudDq8GN73zUvb6U/KNEnLxe7alJX9egCXJlOpv3i+avuzqmySzfagTuIUbr1JNvUrj8E4WxKJ2WixTTNdJpstBi0R85JG2WZexfaa/E2bHPTHvn170RvwcZobz2ZLc8k2IzuXFXgO3+n8nB730t1LpyGNFJ5yHNWfgSMLti0l6MBkpjfblCv6AZm/77k0y45YeXI3EAEaxha/oMT1ocbl++J0aO+v9lx/Lnrv/VoBiWEEiSFEtAJyx+aaCPzV3vuPRZ/N65zBUCPwiWPPn5BTYGuRe8K+PoPxU7k/iwN5Ec2sGPxh3MkHdak7+0lHS/4tHs9klZwlp9MoF7wDJ69J1P4XeDibZ6uNrp1X92fz2PuezZP3emDJod7hkzdPXcvgfc/mPZzVlcdc7yg0NwdVYRR737O6UMB144LlHwKo3BrCsl0nGDr7dz6zbc8oWV3cnyhqfWy9EClnweja0glTkrxxnug07JL+6P9/h7KqsITUe8VzdQqPkEi9da6sneJKd3SEVAvIEqO2VVYs9AmAQ6GrHGG24N/WJer6PAdr6Lvuss4545tzq8wZJ6AKTTV03fEG6v73LRcAtSaMBBmkRYxnvfDi/V1VB4RB1pjr4xD9t40KBhkn3JzKTCp50y+V031GdBONpP03tgSDpw7zQVkt5X3H2JYirgeD1fEPR/LeBk/e9XguuPCJ/D+QAIIgCIIgCIIgCIIgCIIgCIIgCIIgCIIgCIIgCIIgCIIgCIIgCIIgCIIgCIIgCIIgCIJ8J/8CGknIkZLcmV0AAAAASUVORK5CYII=",
+      "description": "Learn the basics of React including components, state, and props.",
+      "author": "John Doe",
+      "comments": [
+        {
+          "id": 101,
+          "user": "Jane Smith",
+          "content": "Great course! It helped me understand the basics of React."
+        },
+        {
+          "id": 102,
+          "user": "Mike Johnson",
+          "content": "Very informative, but I wish it covered hooks in more detail."
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "title": "Advanced JavaScript",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuHnJDLOcdm_0b6N6kNj-1OvO9KhKYgqIy0w&s",
+      "description": "Deep dive into advanced JavaScript concepts like closures, promises, and async/await.",
+      "author": "Alice Brown",
+      "comments": [
+        {
+          "id": 103,
+          "user": "Sarah Lee",
+          "content": "Challenging but very rewarding. The examples were well thought out."
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "title": "Node.js and Express",
+      "image": "https://media.licdn.com/dms/image/D5612AQEwgpgnljuV2A/article-cover_image-shrink_720_1280/0/1718600283624?e=2147483647&v=beta&t=tkSfQQZ2mvBsEGVZmmHBUvEajdoYG2S2KRR_1ZX8cuw",
+      "description": "Build RESTful APIs with Node.js and Express framework.",
+      "author": "Robert Green",
+      "comments": [
+        {
+          "id": 104,
+          "user": "David Clark",
+          "content": "Perfect for backend beginners! The instructor was very clear."
+        },
+        {
+          "id": 105,
+          "user": "Emily Davis",
+          "content": "I learned a lot about building APIs. Would love to see more on testing."
+        }
+      ]
+    }
+  ]
+}
